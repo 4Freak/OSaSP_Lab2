@@ -1,6 +1,8 @@
 # OSaSP_Lab2
-V
-Task    FileName
+Pavel Bobryk;
+group: 051004;
+list: 4;
+Task:    FileName
 02:      02.c;
 03:      03.c;
 04:      04.c;
